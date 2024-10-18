@@ -655,6 +655,7 @@ body {
 /* fragrance_S */
 #section6{
     margin: 100px 0;
+    overflow: hidden;
 }
 
 .comment6{
