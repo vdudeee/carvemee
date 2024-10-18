@@ -82,6 +82,7 @@ body {
     font-size: 20px;
     line-height: 1.5em;
     color: #2A2C23;
+    overflow-x: hidden;
 }
 
 #h_r{
