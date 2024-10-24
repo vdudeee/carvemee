@@ -957,7 +957,8 @@ audio{
 
 @media (max-width:470px){
     .footer_link,
-    .copyright{
+    .copyright,
+    .number_wrap{
         font-size: 0.8em;
     }
     .sns{
