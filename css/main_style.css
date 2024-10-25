@@ -147,7 +147,8 @@ body {
         height: 100vh;
         color: #fff;
         background-color: #2A2C23;
-         margin-left: 100vw;
+        margin-left: 100vw;
+        z-index: 999;
      }
 
      .tablet_gnb{
