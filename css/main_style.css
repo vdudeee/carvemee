@@ -107,6 +107,7 @@ body {
     display: flex;
     width: 520px;
     justify-content: space-between;
+    font-weight: 900;
 }
 
 .pc_gnb li{
